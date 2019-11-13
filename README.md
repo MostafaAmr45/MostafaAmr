@@ -2,19 +2,19 @@
 Hello!
 My name is Mostafa Amr. I am 21 years old and I study engineering at Cairo University.
 My department is systems and biomedical and I'm very interested in `software engineering` specially in the embedded systems field.
-My dream is to start a career in the software engineering field whether it’s in the embedded systems field or in the mobile application field (yeah, not the web development field. Not my type :D).
+My dream is to start a career in the software engineering field whether it’s in the embedded systems field or in the mobile application field *yeah, not the web development field. Not my type :D*
 
 ===========================================
 
 ## Skills  
-**Programming languages:** `C, C++, Matlab, Python, Latex.`
-**Tools:** `Arduino, Code blocks, Microsoft office, Proteus, and Visual Studio.`
+**Programming languages:** `C, C++, Matlab, Python, Latex.`  
+**Tools:** `Arduino, Code blocks, Microsoft office, Proteus, and Visual Studio.`  
 **Languages:** English, Arabic.
 
 ===========================================
  
  ## Experience                                                    
-* Embedded systems participant at IEEE CUSB
+* Embedded systems participant at IEEE CUSB  
 * 6 months embedded  systems diploma at Alemny academy                         
 
 ===========================================
