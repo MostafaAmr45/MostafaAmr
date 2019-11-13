@@ -21,8 +21,8 @@ My dream is to start a career in the software engineering field whether it’s i
 
 ## Online Courses & Workshops 
 * IELTS Course/ edx  
-+ Had and academic test at British Council  
-+ Overall Band Score: 6.5  
+  + Had and academic test at British Council  
+  + Overall Band Score: 6.5  
 * Arduino from one to done/ PN Junction    
 * Relational Databases and basic programming/ GDG  
 
